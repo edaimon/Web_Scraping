@@ -6,7 +6,7 @@ IT Academy T10.1
   Documentar dades recollides amb web scraping.
 
 # Exercici 1
-Realitza web scraping de dues de les tres pàgines web proposades utilitzant BeautifulSoup primer i Selenium després. 
+Realitza web scraping de dues de les tres pàgines web proposades utilitzant BeautifulSoup. 
 
 - http://quotes.toscrape.com
 
@@ -24,4 +24,4 @@ A manera d'exemple del que es demana pots consultar aquest enllaç:
 
 
 # Exercici 3
-Tria una pàgina web que tu vulguis i realitza web scraping mitjançant la llibreria Selenium primer i Scrapy després. 
+Tria una pàgina web que tu vulguis i realitza web scraping. 
